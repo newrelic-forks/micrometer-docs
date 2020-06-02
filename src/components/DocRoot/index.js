@@ -93,8 +93,8 @@ export default function DocRoot() {
             </li>
 
             <li><NavLink className="doc-section" to="/docs/registry/new-relic">New Relic</NavLink>.
-              Micrometer publishes to New Relic Insights, a SaaS offering with a full UI and a query language called NRQL.
-              New Relic Insights operates on a push model.
+              Micrometer publishes dimensional metrics to New Relic, a programmable observability platform that
+              supports dashboards, charts, alerts, and more.
             </li>
 
             <li><NavLink className="doc-section" to="/docs/registry/prometheus">Prometheus</NavLink>.
