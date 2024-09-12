@@ -7,7 +7,7 @@
     "asciidoctor.js": "^1.5.9",
     "bootstrap": "^4.3.1",
     "codemirror": "^5.27.4",
-    "express": "^4.15.3",
+    "express": "^4.21.0",
     "font-awesome": "^4.7.0",
     "history": "^4.6.3",
     "octicons": "^5.0.1",
